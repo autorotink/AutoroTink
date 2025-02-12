@@ -12,7 +12,7 @@
 <h2>🏫 Cyber Courses:</h2>
 
 - <b>SANS Institute: SEC 566: Implementing and Auditing CIS Controls </b>
-  - [Am I ever going to get this cert?](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Am I ever going to get this cert?](https://github.com/autorotink/GCCC/blob/main/README.md)
 - <b>AntiSyphon's SOC Core Skills</b>
   - [Just a start!](https://github.com/joshmadakor1/Algorithms-Practice)
 
