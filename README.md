@@ -18,10 +18,8 @@
 
 <h2>🖥️ Cyber-ing Skills and Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Built a Home Lab</b>
+  - [Built a Basic Home Lab](https://github.com/autorotink/HomeLab)
 
 ## ⛏️ Tools
 *These are some tools that I'm familiar with! (Some more than others) I'm growing each day in this field, so I'm learning how to use these tools a little more!*
