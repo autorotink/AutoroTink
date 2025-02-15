@@ -18,8 +18,8 @@
 
 <h2>🖥️ Cyber-ing Skills and Projects:</h2>
 
-- <b>Built a Home Lab</b>
-  - [Built a Basic Home Lab](https://github.com/autorotink/HomeLab)
+- <b>Build a Home Lab</b>
+  - [Build a Basic Home Lab](https://github.com/autorotink/HomeLab)
 
 ## ⛏️ Tools
 *These are some tools that I'm familiar with! (Some more than others) I'm growing each day in this field, so I'm learning how to use these tools a little more!*
