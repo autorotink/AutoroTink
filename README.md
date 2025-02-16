@@ -7,6 +7,7 @@
 <h2>🏆 Cyber Certifications:</h2>
 
 - <b><a href="https://www.credly.com/badges/8cc50619-a408-4ca6-ba81-0cfa4a1a937f/public_url">CompTIA: Security+ </b>
+
   - How I'm [maintaining my Sec+](https://github.com/autorotink/SecPlusMaint)
 
 <h2>🏫 Cyber Courses:</h2>
@@ -14,8 +15,8 @@
 - <b>SANS Institute: SEC 566: Implementing and Auditing CIS Controls </b>
   - [Currently creating my index and studying](https://github.com/autorotink/GCCC/blob/main/README.md)
 - <b>AntiSyphon's:
-  - [SOC Core Skills](https://github.com/autorotink/AntiSyphon)</b>
-  - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon)
+  - [SOC Core Skills](https://github.com/autorotink/AntiSyphon/blob/main/SOC-Core-Skills-0.md)</b>
+  - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon/blob/main/AD-Intro.md)
 
 <h2>🖥️ Cyber-ing Skills and Projects:</h2>
 
