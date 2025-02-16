@@ -2,7 +2,7 @@
 
 <h2>🐘 About Me:</h2>
 
-- <i>Hello! I have worked in cyber for a little bit, taking a break from work to get some education under my belt!  From what I've seen in resumes, there doesn't seem to be enough room to convey "all the things", so I'll try to capture more of "all the things" here!  My career goal is to continue my education and find employment as a Tier 1 Analyst.</i>  
+- <i>Hello! I have worked in cyber for a little bit, taking a break from work to get some education under my belt!  From what I've seen in resumes, there doesn't seem to be enough room to convey "all the things", so I'll try to capture more of "all the things" here!  My career goal is to continue my education and find employment as a Tier 1 Analyst and grow from there!</i>  
   
 <h2>🏆 Cyber Certifications:</h2>
 
@@ -12,9 +12,10 @@
 <h2>🏫 Cyber Courses:</h2>
 
 - <b>SANS Institute: SEC 566: Implementing and Auditing CIS Controls </b>
-  - [Am I ever going to get this cert?](https://github.com/autorotink/GCCC/blob/main/README.md)
-- <b>AntiSyphon's SOC Core Skills</b>
-  - [Just a start!](https://github.com/autorotink/AntiSyphon)
+  - [Currently creating my index and studying](https://github.com/autorotink/GCCC/blob/main/README.md)
+- <b>AntiSyphon's:
+  - [SOC Core Skills](https://github.com/autorotink/AntiSyphon)</b>
+  - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon)
 
 <h2>🖥️ Cyber-ing Skills and Projects:</h2>
 
