@@ -13,7 +13,7 @@
 <h2>🏫 Cyber Courses:</h2>
 
 - <b>SANS Institute: SEC 566: Implementing and Auditing CIS Controls </b>
-  - [Currently creating my index and studying](https://github.com/autorotink/GCCC/blob/main/README.md)
+  - [Practice Test Complete! Scheduled to Test very soon!](https://github.com/autorotink/GCCC/blob/main/README.md)
 - <b>AntiSyphon's: </b>
   - [SOC Core Skills](https://github.com/autorotink/AntiSyphon/blob/main/SOC-Core-Skills-0.md)
   - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon/blob/main/IntroAD-1.md)
