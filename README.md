@@ -17,7 +17,8 @@
 - <b>AntiSyphon's: </b>
   - [SOC Core Skills](https://github.com/autorotink/AntiSyphon/blob/main/SOC-Core-Skills-0.md)
   - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon/blob/main/IntroAD-1.md)
-
+- <b>Udemy's: </b>
+  - [100 Days of Code: The Coplete Python Pro Bootcamp](https://github.com/autorotink/AntiSyphon/blob/main/SOC-Core-Skills-0.md)
 <h2>🖥️ Cyber-ing Skills and Projects:</h2>
 
 - <b>Build a Home Lab</b>
