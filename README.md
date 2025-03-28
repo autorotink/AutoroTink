@@ -8,12 +8,10 @@
 
 - <b><a href="https://www.credly.com/badges/8cc50619-a408-4ca6-ba81-0cfa4a1a937f/public_url">CompTIA: Security+ </b>
 
-  - How I'm [maintaining my Sec+](https://github.com/autorotink/SecPlusMaint)
+- <b><a href="https://www.credly.com/badges/47cf4875-8bfa-4239-9ecd-0dba756cb2be/public_url">GIAC Critical Controls Certification (GCCC) </b>
 
 <h2>🏫 Cyber Courses:</h2>
 
-- <b>SANS Institute: SEC 566: Implementing and Auditing CIS Controls </b>
-  - [Practice Test Complete! Scheduled to Test very soon!](https://github.com/autorotink/GCCC/blob/main/README.md)
 - <b>AntiSyphon's: </b>
   - [SOC Core Skills](https://github.com/autorotink/AntiSyphon/blob/main/SOC-Core-Skills-0.md)
   - [Intro to Active Directory](https://github.com/autorotink/AntiSyphon/blob/main/IntroAD-1.md)
